@@ -2,6 +2,7 @@
     max-width: 50rem;
     width: 100%;
     padding: 1rem;
+    background-color: #F1EAE7;
 }
 
 .ticket-card-container .ticket-card-header {
@@ -35,6 +36,7 @@
     height: 100%;
     padding: 2.8px 5px;
     align-self: center;
+    background-color: white;
 }
 
 .ticket-card-container .ticket-tag-container .ticket-card-tag {
@@ -44,6 +46,7 @@
     gap: 0.5rem;
     padding: 0.5rem;
     align-items: center;
+    background-color: white;
 }
 .avatar-container {
     display: inline-block;
