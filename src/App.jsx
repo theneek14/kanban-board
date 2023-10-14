@@ -1,6 +1,5 @@
 import { useState } from "react";
 import Board from "./components/Board/Board";
-import { GroupingList, OrderingList, priorityMap } from "./data/data";
 import { FiSettings } from "react-icons/fi";
 
 import "./App.css";
